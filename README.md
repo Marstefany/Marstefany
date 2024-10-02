@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=add8e6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Stefany+Gomes;FULL+STACK+DEVELOPER;WELCOME!+:%29)](https://git.io/typing-svg)
 
+### Sobre Mim 👩‍💻
+Olá, mundo! Eu sou a Stefany Gomes. Atualmente sou estudante de Ciências da Computação e aluna do Instituto Proa. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios que me permitam crescer e aprender.
+
+### Projeto Atual 🌐
+No momento, estou trabalhando como Frontend no desenvolvimento de um site, onde aplico minhas habilidades e contribuo para a criação de experiências incríveis.
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marstefany&show_icons=true&count_private=true&hide_border=true&title_color=add8e6&icon_color=add8e6&text_color=c9d1d9&bg_color=0d1117" alt="Stefany Gomes GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marstefany&layout=compact&hide_border=true&title_color=add8e6&text_color=add8e6&bg_color=0d1117" />
