@@ -40,9 +40,7 @@ No momento, estou trabalhando como Frontend no desenvolvimento de um site, onde 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarstefany&s=40&c=0094db&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+ 
 <br>
 </div>
 
