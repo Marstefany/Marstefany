@@ -5,7 +5,7 @@
 
 ### Sobre Mim 👩‍💻
 
-Olá! Sou a Stefany Gomes, desenvolvedora de software com foco em Frontend. Atualmente curso Ciências da Computação e sou formada pelo Instituto PROA. Tenho paixão por transformar ideias em interfaces funcionais e acessíveis, com atenção aos detalhes de design e experiência do usuário. Busco constantemente aprender novas tecnologias e contribuir com soluções criativas e eficientes.
+Olá! Sou a Stefany Gomes, desenvolvedora de software com foco em Frontend. Atualmente curso Ciência da Computação e sou formada pelo Instituto PROA. Tenho paixão por transformar ideias em interfaces funcionais e acessíveis, com atenção aos detalhes de design e experiência do usuário. Busco constantemente aprender novas tecnologias e contribuir com soluções criativas e eficientes.
 
 
 
